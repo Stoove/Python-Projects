@@ -2,7 +2,7 @@
 ## The idea was to learn how to pass a function to another function, as well as learning how to obtain input
 ## from the keyboard/console.
 
-## Low level function, representing some type of objective function one might wish to vary.
+## Low level function, representing some type of objective function one might wish to vary between calls.
 def myFunc(x,y):
     return x*y
 

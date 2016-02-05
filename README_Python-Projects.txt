@@ -16,3 +16,7 @@
 ##= WorkingOutFunctions.py
 ##    A script focused on working out how to pass and use function handles in Python,
 ##    which is a technique I find extremely useful in other languages.
+##
+##= ExploringLists.py
+##    A script in which I take some time for learning lists and their associated
+##    weirdness. I was not used to mutable types from Matlab.
