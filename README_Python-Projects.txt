@@ -12,3 +12,7 @@
 ##= HelloWorld.py
 ##    A simple Hello World program, where I also experimented a little with
 ##    keyboard shortcuts for commenting
+##
+##= WorkingOutFunctions.py
+##    A script focused on working out how to pass and use function handles in Python,
+##    which is a technique I find extremely useful in other languages.
